@@ -1,0 +1,100 @@
+Model vit_base_patch16_224 epoch 10---------------------------------------
+Started Training----------------------------------------
+[Epoch 1, Batch 100] Loss: 0.391
+[Epoch 1, Batch 200] Loss: 0.350
+[Epoch 1, Batch 300] Loss: 0.332
+[Epoch 1, Batch 400] Loss: 0.338
+[Epoch 1, Batch 500] Loss: 0.322
+[Epoch 1, Batch 600] Loss: 0.325
+[Epoch 1, Batch 700] Loss: 0.332
+[Epoch 1, Batch 800] Loss: 0.329
+[Epoch 1, Batch 900] Loss: 0.324
+[Epoch 2, Batch 100] Loss: 0.330
+[Epoch 2, Batch 200] Loss: 0.329
+[Epoch 2, Batch 300] Loss: 0.336
+[Epoch 2, Batch 400] Loss: 0.335
+[Epoch 2, Batch 500] Loss: 0.326
+[Epoch 2, Batch 600] Loss: 0.323
+[Epoch 2, Batch 700] Loss: 0.319
+[Epoch 2, Batch 800] Loss: 0.324
+[Epoch 2, Batch 900] Loss: 0.324
+[Epoch 3, Batch 100] Loss: 0.322
+[Epoch 3, Batch 200] Loss: 0.326
+[Epoch 3, Batch 300] Loss: 0.326
+[Epoch 3, Batch 400] Loss: 0.321
+[Epoch 3, Batch 500] Loss: 0.322
+[Epoch 3, Batch 600] Loss: 0.322
+[Epoch 3, Batch 700] Loss: 0.330
+[Epoch 3, Batch 800] Loss: 0.325
+[Epoch 3, Batch 900] Loss: 0.318
+[Epoch 4, Batch 100] Loss: 0.319
+[Epoch 4, Batch 200] Loss: 0.329
+[Epoch 4, Batch 300] Loss: 0.325
+[Epoch 4, Batch 400] Loss: 0.321
+[Epoch 4, Batch 500] Loss: 0.325
+[Epoch 4, Batch 600] Loss: 0.314
+[Epoch 4, Batch 700] Loss: 0.325
+[Epoch 4, Batch 800] Loss: 0.326
+[Epoch 4, Batch 900] Loss: 0.332
+[Epoch 5, Batch 100] Loss: 0.322
+[Epoch 5, Batch 200] Loss: 0.317
+[Epoch 5, Batch 300] Loss: 0.330
+[Epoch 5, Batch 400] Loss: 0.314
+[Epoch 5, Batch 500] Loss: 0.326
+[Epoch 5, Batch 600] Loss: 0.319
+[Epoch 5, Batch 700] Loss: 0.318
+[Epoch 5, Batch 800] Loss: 0.326
+[Epoch 5, Batch 900] Loss: 0.326
+[Epoch 6, Batch 100] Loss: 0.325
+[Epoch 6, Batch 200] Loss: 0.322
+[Epoch 6, Batch 300] Loss: 0.315
+[Epoch 6, Batch 400] Loss: 0.322
+[Epoch 6, Batch 500] Loss: 0.323
+[Epoch 6, Batch 600] Loss: 0.320
+[Epoch 6, Batch 700] Loss: 0.319
+[Epoch 6, Batch 800] Loss: 0.318
+[Epoch 6, Batch 900] Loss: 0.323
+[Epoch 7, Batch 100] Loss: 0.320
+[Epoch 7, Batch 200] Loss: 0.322
+[Epoch 7, Batch 300] Loss: 0.325
+[Epoch 7, Batch 400] Loss: 0.317
+[Epoch 7, Batch 500] Loss: 0.322
+[Epoch 7, Batch 600] Loss: 0.314
+[Epoch 7, Batch 700] Loss: 0.327
+[Epoch 7, Batch 800] Loss: 0.325
+[Epoch 7, Batch 900] Loss: 0.320
+[Epoch 8, Batch 100] Loss: 0.320
+[Epoch 8, Batch 200] Loss: 0.312
+[Epoch 8, Batch 300] Loss: 0.327
+[Epoch 8, Batch 400] Loss: 0.327
+[Epoch 8, Batch 500] Loss: 0.315
+[Epoch 8, Batch 600] Loss: 0.316
+[Epoch 8, Batch 700] Loss: 0.324
+[Epoch 8, Batch 800] Loss: 0.314
+[Epoch 8, Batch 900] Loss: 0.323
+[Epoch 9, Batch 100] Loss: 0.324
+[Epoch 9, Batch 200] Loss: 0.319
+[Epoch 9, Batch 300] Loss: 0.321
+[Epoch 9, Batch 400] Loss: 0.329
+[Epoch 9, Batch 500] Loss: 0.319
+[Epoch 9, Batch 600] Loss: 0.314
+[Epoch 9, Batch 700] Loss: 0.317
+[Epoch 9, Batch 800] Loss: 0.317
+[Epoch 9, Batch 900] Loss: 0.316
+[Epoch 10, Batch 100] Loss: 0.324
+[Epoch 10, Batch 200] Loss: 0.324
+[Epoch 10, Batch 300] Loss: 0.316
+[Epoch 10, Batch 400] Loss: 0.316
+[Epoch 10, Batch 500] Loss: 0.315
+[Epoch 10, Batch 600] Loss: 0.326
+[Epoch 10, Batch 700] Loss: 0.309
+[Epoch 10, Batch 800] Loss: 0.319
+[Epoch 10, Batch 900] Loss: 0.316
+Finished Training---------------------------------------
+Accuracy on Preprocessed test set: 87.35%
+Recall: 0.53
+Precision: 0.80
+F1 Score: 0.63
+Confusion Matrix:
+tensor([[61377,  2265],
+        [ 7901,  8819]])
